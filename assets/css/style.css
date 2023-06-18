@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.c-item {
+  height: 480px;
+}
+
+.c-img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.resize-form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.action-btn {
+  display: inline-block;
+}
+
+.form-delete-item {
+  display: inline-block;
+}
+
+.thumb-img {
+  width: 50px;
+}
